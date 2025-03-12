@@ -5,6 +5,8 @@
 ## Overview
 PyTubeX is a command-line tool for downloading YouTube videos and audio files with high quality. It uses `yt-dlp` for efficient downloading and supports MP3 and MP4 formats.
 
+![image](https://github.com/user-attachments/assets/cb86b5b9-a6d3-4970-b70c-f02c5dd6731e)
+
 ## Features
 - Download YouTube videos in MP4 format.
 - Extract audio in high-quality MP3 format.
