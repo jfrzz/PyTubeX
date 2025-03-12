@@ -13,6 +13,16 @@ PyTubeX is a command-line tool for downloading YouTube videos and audio files wi
 - Saves download history.
 
 ## Installation
+
+Clone the repository:
+```sh
+git clone https://github.com/jfrzz/PyTubeX.git
+```
+Navigate into the folder:
+```sh
+cd PyTubeX
+```
+
 Ensure you have Python installed, then run:
 ```sh
 pip install colorama requests yt_dlp
